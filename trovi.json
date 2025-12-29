@@ -14,9 +14,9 @@
                     "@id": "#author_0"
                 }
             ],
-            "datePublished": "2025-12-29T04:02:21+00:00",
-            "description": "This repository contains the reproduced code used for shortcut learning experiments in text classification.",
-            "disambiguatingDescription": "Reproduced Shortcut Learning in Text Classification",
+            "datePublished": "2025-12-29T04:17:32+00:00",
+            "description": "## Overview\n\nThis artifact reproduces experiments on shortcut learning in text classification using our own implementation.\n\n**Includes:**\n- **Code:** Our reproduced code for training and evaluating models on text classification datasets.\n- **Statistical Data:** Original statistical data from the paper authors, used for validation and comparison.\n- **Original Paper:** [Shortcut Learning in Text Classification, Findings of EMNLP 2024](https://aclanthology.org/2024.findings-emnlp.146.pdf)\n\n## Reproduction Goal\n\nValidate key claims from the original paper by reproducing experiments with our own code and using the original authors\u2019 statistical data for reference.\n\n## Key Findings (From my experiments) \n\n- **Test Accuracy:** 0.6446, **Test Macro F1:** 0.6386\n- **Anti-Test Accuracy:** 0.395, **Anti-Test Macro F1:** 0.3577\n- **Original Test Accuracy:** 0.5758, **Original Test Macro F1:** 0.5695\n\nOur results confirm the patterns of shortcut learning reported in the original paper.\n\n## Environment and Modifications\n\n- Python 3.11+, PyTorch, NumPy, HuggingFace Transformers\n- Minor adaptations to improve reproducibility (e.g., offline W&B logging)\n",
+            "disambiguatingDescription": "Reproduced code + original statistical data",
             "keywords": "code,dataset",
             "name": "Shortcut Learning in Text Classification"
         },
@@ -33,7 +33,7 @@
         {
             "@id": "#author_0",
             "@type": "Person",
-            "affiliation": "UNEJ",
+            "affiliation": "Universitas Jember",
             "email": "nandiniputri7704@gmail.com",
             "name": "Nandini Putri Hanifa Jannah"
         },
