@@ -1,15 +1,15 @@
 # Reproduction Report
-“Navigating the Shortcut Maze: Shortcut Learning in Text Classification with BERT”
-**Original Paper**
-Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models
-**Authors**
-Yuqing Zhou et al.
-**Link to Paper**
-https://arxiv.org/abs/2305.07467
-**Link to Original Code**
-https://github.com/yuqing-zhou/shortcut-learning-in-text-classification
-**Report by**
-Nandini Putri Hanifa Jannah
+“Navigating the Shortcut Maze: Shortcut Learning in Text Classification with BERT”  
+**Original Paper**  
+Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models  
+**Authors**  
+Yuqing Zhou et al.  
+**Link to Paper**  
+https://arxiv.org/abs/2305.07467  
+**Link to Original Code**  
+https://github.com/yuqing-zhou/shortcut-learning-in-text-classification  
+**Report by**  
+Nandini Putri Hanifa Jannah  
 
 ## 1. Summary and Reproduction Goal
 **Paper Summary**
